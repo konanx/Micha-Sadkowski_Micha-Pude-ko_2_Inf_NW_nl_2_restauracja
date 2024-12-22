@@ -1,0 +1,13 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <EnableDefaultItems>true</EnableDefaultItems>
+    <StartupObject>RestaurantTableManager.Program</StartupObject>
+    <AssemblyTitle>Restaurant Table Manager</AssemblyTitle>
+    <AssemblyCompany>YourCompany</AssemblyCompany>
+    <AssemblyProduct>Restaurant Table Manager</AssemblyProduct>
+  </PropertyGroup>
+</Project>
